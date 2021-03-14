@@ -11,7 +11,7 @@
 **NB :** __this tool run in python3__
 
 ## Cara install
-1. `git clone`
+1. `git clone https://github.com/bitch-code/HackTheBox`
 2. `cd HackTheBox`
 3. `pip install -r bahan.txt`
 4. `python htb.py`
